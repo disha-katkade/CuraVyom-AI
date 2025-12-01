@@ -74,19 +74,7 @@ Ensure both terminals are running:
 
 Open your browser and navigate to `http://localhost:5173` to use the application.
 
-## 🚢 Deployment
 
-This project is ready for deployment on Vercel or Netlify.
-
-### Vercel
-
-1.  Install Vercel CLI: `npm i -g vercel`
-2.  Run `vercel` in the project root.
-3.  Follow the prompts.
-
-### Netlify
-
-1.  Drag and drop the `dist` folder (after running `npm run build`) to Netlify Drop.
 
 ## 📂 Project Structure
 
