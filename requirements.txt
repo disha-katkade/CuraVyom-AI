@@ -1,0 +1,10 @@
+fastapi
+pydantic
+python-multipart
+websockets
+python-dotenv
+uvicorn
+pypdf
+# Optional but recommended for full feature set
+pandas
+fpdf
